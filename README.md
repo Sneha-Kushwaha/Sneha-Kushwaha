@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sneha Kushwaha</h1>
 <h3 align="center">A passionated Full-Stack developer from India</h3>
 
+
+
+- 🔭 I’m currently working at **Infotact Solution**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **MERN Stack**
+- 📫 How to reach me: **snehakushwaha7394@gmail.com**
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-kushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-kushwaha" alt="sneha-kushwaha" /></a> </p>
